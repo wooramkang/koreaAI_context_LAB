@@ -1,4 +1,4 @@
-# koreaAI_LAB_context
+# koreaAI_context_LAB
 
 한국인공지능연구소 산하 GAN과 관련된 연구를 진행하고 있는
 LAB 맥락은 직장인, 대학(원)생 등, 6명으로 구성되있는 연구그룹입니다.
