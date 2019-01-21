@@ -20,7 +20,9 @@ GAN을 이용한 text to image 구현 등을 시도 하고있습니다.
 매우 재미있어보이는 주제 라고 생각하여 진행하고있습니다.
 
 연구그룹내 소과제로, 관련 논문, 자료 문서화 작업 
+
 GAN과 뉴럴네트워크 설계관련 이론, 자료 정리
 https://docs.google.com/document/d/1oLxjRun6QSQKwzQHJbS6F9fQEfDRLTv336mNgQTaOqE/edit
+
 자연어처리와 attention관련 자료 정리
 https://docs.google.com/document/d/141f839bNky8Tx5jfvu7q7IqFXdNzuszL8x15zh26De0/edit?usp=sharing
