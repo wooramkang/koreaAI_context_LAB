@@ -6,7 +6,6 @@ LAB 맥락은 직장인, 대학(원)생 등, 6명으로 구성되있는 연구�
 
 2018년도 4분기 https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram
 
-
 2019년도 1분기 https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram-1
 
 주 연구 주제는 text to image와 image to text의 연결과 관련된 공부와 시도를 해보고있습니다.
@@ -20,3 +19,8 @@ GAN을 이용한 text to image 구현 등을 시도 하고있습니다.
 영상 => 자연어/ 자연어 => 영상 의 두 generative model 끼리의 연결은 어떻게 구현해볼수 있을까 하는 주제에 관심을 갖고 있습니다.
 매우 재미있어보이는 주제 라고 생각하여 진행하고있습니다.
 
+연구그룹내 소과제로, 관련 논문, 자료 문서화 작업 
+GAN과 뉴럴네트워크 설계관련 이론, 자료 정리
+https://docs.google.com/document/d/1oLxjRun6QSQKwzQHJbS6F9fQEfDRLTv336mNgQTaOqE/edit
+자연어처리와 attention관련 자료 정리
+https://docs.google.com/document/d/141f839bNky8Tx5jfvu7q7IqFXdNzuszL8x15zh26De0/edit?usp=sharing
