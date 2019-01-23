@@ -19,7 +19,7 @@ GAN을 이용한 text to image 구현 등을 시도 하고있습니다.
 영상 => 자연어/ 자연어 => 영상 의 두 generative model 끼리의 연결은 어떻게 구현해볼수 있을까 하는 주제에 관심을 갖고 있습니다.
 매우 재미있어보이는 주제 라고 생각하여 진행하고있습니다.
 
-연구그룹내 소과제로, 관련 논문, 자료 문서화 작업 
+연구그룹내 소과제로써 관련 논문, 자료 문서화 작업을 병행중에 있습니다.
 
 GAN과 뉴럴네트워크 설계관련 이론, 자료 정리
 https://docs.google.com/document/d/1oLxjRun6QSQKwzQHJbS6F9fQEfDRLTv336mNgQTaOqE/edit
