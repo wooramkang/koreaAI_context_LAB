@@ -19,6 +19,7 @@ from keras import initializers, regularizers, constraints
 
 import tensorflow as tf
 
+
 class DenseSN(Dense):
     def build(self, input_shape):
         assert len(input_shape) >= 2

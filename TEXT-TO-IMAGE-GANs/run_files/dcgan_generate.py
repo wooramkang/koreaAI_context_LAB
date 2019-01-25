@@ -12,8 +12,8 @@ def main():
     sys.path.append(os.path.join(current_dir, '..'))
     current_dir = current_dir if current_dir is not '' else '.'
 
-    img_dir_path = '/home/rd/recognition_reaserch/IMAGE_CAPTION/DATASET/val2014'
-    txt_dir_path = '/home/rd/recognition_reaserch/IMAGE_CAPTION/DATASET/captions'
+    img_dir_path = '/home/rd/recognition_research/IMAGE_CAPTION/DATASET/val2014'
+    txt_dir_path = '/home/rd/recognition_research/IMAGE_CAPTION/DATASET/captions'
     model_dir_path = current_dir + '/models'
 
     img_width = 64
