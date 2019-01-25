@@ -22,11 +22,13 @@ we all focus on researching AI even though each person have different domain of 
 
 
 2018년도 4분기 https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram
+
 in Q4 of 2018 https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram
 
 <hr/>
 
 2019년도 1분기 https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram-1 (현재 진행중)
+
 in Q1 of 2019 https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram-1 (on going)
 
 <hr/>
@@ -74,6 +76,7 @@ as an small project in project, we are making documents about tons of papers and
 <hr/>
 
 GAN과 뉴럴네트워크 설계관련 이론, 자료 정리
+
 Theories and materials about GANs and NN
 
 https://docs.google.com/document/d/1oLxjRun6QSQKwzQHJbS6F9fQEfDRLTv336mNgQTaOqE/edit
@@ -81,6 +84,7 @@ https://docs.google.com/document/d/1oLxjRun6QSQKwzQHJbS6F9fQEfDRLTv336mNgQTaOqE/
 <hr/>
 
 자연어처리와 attention관련 자료 정리
+
 Theories and materials about NLP and Attention
 
 https://docs.google.com/document/d/141f839bNky8Tx5jfvu7q7IqFXdNzuszL8x15zh26De0/edit?usp=sharing
