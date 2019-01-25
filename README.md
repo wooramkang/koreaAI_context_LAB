@@ -20,16 +20,19 @@ we all focus on researching AI even though each person have different domain of 
 
 <hr/>
 
+2018년도 4분기 
 
-2018년도 4분기 https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram
+in Q4 of 2018 
 
-in Q4 of 2018 https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram
+https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram
 
 <hr/>
 
-2019년도 1분기 https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram-1 (현재 진행중)
+2019년도 1분기 (현재 진행중)
 
-in Q1 of 2019 https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram-1 (on going)
+in Q1 of 2019 (on going)
+
+https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram-1 
 
 <hr/>
 
