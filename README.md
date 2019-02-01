@@ -61,7 +61,7 @@ including modeling text to image with various GANs.
 nowdays, lots of GAN papers about cross domain GAN are being published.
 especially, {vision} <=> {vision}, {Natual Languege Processing model} <=> {NLP}, something like that.
 so we have come up with an idea that is "How about cross modalities?"
-,which could be kind of {vision => NLP} <=> {NLP => vision}, duo generative model connection.
+,which could be kind of {vision => NLP} <=> {NLP => vision}, a pair of  generative models connection.
 we agree the idea would be fun.
 
 &nbsp;
