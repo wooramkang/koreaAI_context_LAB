@@ -1,3 +1,31 @@
+공식 깃채널로 이관하였습니다. 
+https://github.com/labcontext/Introduction
+https://github.com/labcontext/Introduction
+https://github.com/labcontext/Introduction
+https://github.com/labcontext/Introduction
+https://github.com/labcontext/Introduction
+
+MOVE TO OFFICAL GIT OF OUR LAB
+https://github.com/labcontext/Introduction
+https://github.com/labcontext/Introduction
+https://github.com/labcontext/Introduction
+https://github.com/labcontext/Introduction
+https://github.com/labcontext/Introduction
+FROM HERE
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+&nbsp;
+&nbsp;
+&nbsp;
 # koreaAI_context_LAB
 
 한국인공지능연구소 산하 GAN과 관련된 연구를 진행하고 있는
