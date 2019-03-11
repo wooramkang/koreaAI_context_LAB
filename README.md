@@ -1,8 +1,6 @@
 GAN과 관련 다양한 연구를 진행하는 연구그룹 맥락, 랩장 강우람입니다.
 
-&nbsp;
-
-LAB CONTEXT의 공식 깃채널로 이관하였습니다. 
+LAB CONTEXT, 의 공식 깃채널로 이관하였습니다. 
 
 &nbsp;
 
@@ -23,7 +21,9 @@ https://github.com/labcontext/Introduction
 
 &nbsp;
 
+
 &nbsp;
+
 MOVE TO OFFICAL GIT OF OUR LAB
 
 &nbsp;
@@ -64,7 +64,7 @@ and we are made up of 6 people including workers, Bachelors, masters...etc.
 
 각자 서로 다른 배경에서 인공지능이라는 주제를 공부하고 연구하고 실험해보고자 모였습니다.
 
-we all focus on researching AI even though each person have different domain of knowledge and interests.
+all of us focus on researching AI even though each person have different domain of knowledge and interests.
 
 &nbsp;
 &nbsp;
