@@ -71,9 +71,9 @@ and we are made up of 6 people including workers, Bachelors, masters...etc.~~
 
 ~~<hr/>
 
-~~2018년도 4분기 ~~
+~~2018년도 4분기~~
 
-~~in Q4 of 2018 ~~
+~~in Q4 of 2018~~
 
 ~~https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram~~
 
