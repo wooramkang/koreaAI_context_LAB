@@ -23,7 +23,7 @@ https://github.com/labcontext/Introduction
 
 
 &nbsp;
-MOVE TO OFFICAL GIT OF OUR LAB
+MOVE TO OFFICAL GIT CHANNEL OF OUR LAB
 
 &nbsp;
 
